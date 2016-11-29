@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Star Wars",
+    "rating": 5,
+    "length": 120
+  },
+  {
+    "id": 1,
+    "title": "Star Wars",
+    "rating": 4,
+    "length": 120
+  },
+  {
+    "id": 1,
+    "title": "Star Wars",
+    "rating": 3,
+    "length": 120
+  },
+  {
+    "id": 1,
+    "title": "Star Wars",
+    "rating": 2,
+    "length": 120
+  }
+]
