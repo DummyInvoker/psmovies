@@ -1,0 +1,31 @@
+{
+  "name": "angular1-component-router",
+  "version": "1.0.0",
+  "description": "This package is a direct extract from the Angular 2 source code without modification. ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MaxFletcher/angular1-component-router.git"
+  },
+  "keywords": [
+    "angular",
+    "component",
+    "router"
+  ],
+  "author": {
+    "name": "Maxie"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@angular/router": "^0.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/MaxFletcher/angular1-component-router/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/MaxFletcher/angular1-component-router",
+  "_id": "angular1-component-router@1.0.0",
+  "_shasum": "f1934600c0eb07beec5e89b43fa729caee5b143d",
+  "_from": "angular1-component-router@^1.0.0",
+  "_resolved": "https://registry.npmjs.org/angular1-component-router/-/angular1-component-router-1.0.0.tgz"
+}
